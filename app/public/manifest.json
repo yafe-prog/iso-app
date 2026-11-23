@@ -1,0 +1,16 @@
+{
+  "name": "İsot — Tarihin Sıfır, Lezzetin Zirve Noktası",
+  "short_name": "İsot",
+  "description": "Şanlıurfa Kültür, Tarih ve Gastronomi Rehberi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFBF7",
+  "theme_color": "#9E1B1B",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1046/1046784.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
